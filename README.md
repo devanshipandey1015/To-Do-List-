@@ -1,5 +1,6 @@
 # Smart Todo Kanban
-![Uploading image.png…]()
+<img width="1910" height="909" alt="image" src="https://github.com/user-attachments/assets/685403a2-088b-421c-8fc2-2b23820e70fd" />
+
 
 A lightweight Kanban-style todo app built with Vite, React, and TypeScript. All data is stored in the browser via `localStorage`—no backend required.
 
